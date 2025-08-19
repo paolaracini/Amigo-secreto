@@ -10,7 +10,7 @@ Una aplicación web simple y divertida para organizar tu juego de Amigo Secreto 
 <li>✅ Validación de entradas vacías.</li>
 <li>✅ Interfaz amigable y fácil de usar.</li>
 </ul>
-
+ 
 
   <h3>🧠 Lógica principal</h3>
   <ul>
