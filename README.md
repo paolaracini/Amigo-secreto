@@ -9,12 +9,17 @@ Características:
 ✅ Validación de entradas vacías.
 ✅ Interfaz amigable y fácil de usar.</ul>
 
-🧠 Lógica principal
-
-Los nombres se guardan en un array amigos[].
-agregarAmigo() → añade un nuevo nombre validando que no esté vacío.
-mostrarAmigos() → recorre el array y pinta la lista en el DOM.
-sortearAmigo() → selecciona al azar un elemento del array usando:
-
+<section>
+  <h2>🧠 Lógica principal</h2>
+  <ul>
+    <li>Los nombres se almacenan en un arreglo llamado <code>amigos[]</code>.</li>
+    <li><strong>agregarAmigo()</strong> → añade un nuevo nombre validando que no esté vacío.</li>
+    <li><strong>mostrarAmigos()</strong> → recorre el array y pinta la lista en el DOM.</li>
+    <li><strong>sortearAmigo()</strong> → selecciona al azar un elemento del array usando:
+      <pre><code>let indice = Math.floor(Math.random() * amigos.length);
+let seleccionado = amigos[indice];</code></pre>
+    </li>
+  </ul>
+</section>
 👩‍💻 Autora
 Andrea Paola Guzman Racini
