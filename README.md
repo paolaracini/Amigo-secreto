@@ -1,4 +1,13 @@
 <h1> 🎁 Amigo Secreto </h1>
-<div align="center"> <img src="assets/amigo-secreto.png" alt="Logo Amigo Secreto" width="200"/> </div>
 
 Una aplicación web simple y divertida para organizar tu juego de Amigo Secreto ✨
+
+Características:
+✅ Agrega nombres de tus amigos a una lista.
+✅ Visualiza los participantes en tiempo real.
+✅ Sortea de manera aleatoria un amigo secreto.
+✅ Validación de entradas vacías.
+✅ Interfaz amigable y fácil de usar.
+
+👩‍💻 Autora
+Andrea Paola Guzman Racini
