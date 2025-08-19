@@ -11,7 +11,7 @@ Una aplicación web simple y divertida para organizar tu juego de Amigo Secreto 
 <li>✅ Interfaz amigable y fácil de usar.</li>
 </ul>
 
-<section>
+
   <h3>🧠 Lógica principal</h3>
   <ul>
     <li>Los nombres se almacenan en un arreglo llamado <code>amigos[]</code>.</li>
@@ -22,6 +22,6 @@ Una aplicación web simple y divertida para organizar tu juego de Amigo Secreto 
 let seleccionado = amigos[indice];</code></pre>
     </li>
   </ul>
-</section>
+
 👩‍💻 Autora
 Andrea Paola Guzman Racini
