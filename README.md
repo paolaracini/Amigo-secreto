@@ -2,15 +2,17 @@
 
 Una aplicación web simple y divertida para organizar tu juego de Amigo Secreto ✨
 
-Características:
-<ul>✅ Agrega nombres de tus amigos a una lista.
-✅ Visualiza los participantes en tiempo real.
-✅ Sortea de manera aleatoria un amigo secreto.
-✅ Validación de entradas vacías.
-✅ Interfaz amigable y fácil de usar.</ul>
+<h2>Características:</h2>
+<ul>
+<li>✅ Agrega nombres de tus amigos a una lista.</li>
+<li>✅ Visualiza los participantes en tiempo real.</li>
+<li>✅ Sortea de manera aleatoria un amigo secreto.</li>
+<li>✅ Validación de entradas vacías.</li>
+<li>✅ Interfaz amigable y fácil de usar.</li>
+</ul>
 
 <section>
-  <h2>🧠 Lógica principal</h2>
+  <h3>🧠 Lógica principal</h3>
   <ul>
     <li>Los nombres se almacenan en un arreglo llamado <code>amigos[]</code>.</li>
     <li><strong>agregarAmigo()</strong> → añade un nuevo nombre validando que no esté vacío.</li>
