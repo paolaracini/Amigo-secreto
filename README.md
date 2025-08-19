@@ -1,4 +1,4 @@
-<h1> Amigo Secreto </h1>
+<h1> 🎁 Amigo Secreto </h1>
+<div align="center"> <img src="assets/amigo-secreto.png" alt="Logo Amigo Secreto" width="200"/> </div>
 
-Aplicación web sencilla para registrar nombres y sortear un amigo secreto.
-Permite agregar participantes a una lista y seleccionar uno al azar.
+Una aplicación web simple y divertida para organizar tu juego de Amigo Secreto ✨
